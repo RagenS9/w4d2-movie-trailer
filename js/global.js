@@ -26,7 +26,6 @@ var sevenBrides = new MoviePlayer('Seven Brides for Seven Brothers', 'CfFFFfRwsR
 
 var oklahoma = new MoviePlayer('Oklahoma', 'V6uD9-aLCps');
 
-
 $(document).ready(function() {
     $("button").sparkle();
 })
