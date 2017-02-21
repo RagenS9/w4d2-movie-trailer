@@ -60,3 +60,4 @@ class Movie {
         grid.appendChild(col)
     }
 }
+

@@ -25,3 +25,8 @@ var musicMan = new MoviePlayer('The Music Man', 'sIPL8Yb25T4');
 var sevenBrides = new MoviePlayer('Seven Brides for Seven Brothers', 'CfFFFfRwsR0');
 
 var oklahoma = new MoviePlayer('Oklahoma', 'V6uD9-aLCps');
+
+
+$(document).ready(function() {
+    $("button").sparkle();
+})
